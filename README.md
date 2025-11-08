@@ -44,7 +44,7 @@ Currently working on automating data ingestion pipelines using **Azure and Datab
 ---
 
 ### 💬 Let’s Connect!
-📫 **Email:** pravin@example.com  
+📫 **Email:** pravingondakr911@gmail.com  
 💼 **LinkedIn:** [https://www.linkedin.com/in/pravin-gondkar-5b4ab069/](#)  
 🧑‍💻 **Facebook:** [https://www.facebook.com/pravin.gondkar.50/](#)  
 
