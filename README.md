@@ -1,23 +1,53 @@
-<h1 align="center">Hi 👋, I'm Pravin Gondkar</h1>
-<h3 align="center">I am a Data Engineer</h3>
+# 👋 Hi, I'm Pravin Gondkar  
 
-- 🔭 I’m currently working on **Supply Chain Domain**
+🚀 **Data Engineer | Azure | PySpark | SQL | Databricks**  
 
-- 👨‍💻 All of my projects are available at [https://github.com/PravinGondkar](https://github.com/PravinGondkar)
+I’m passionate about building **scalable data pipelines**, ensuring **data quality**, and creating **efficient data architectures** in the cloud.  
+Currently working on automating data ingestion pipelines using **Azure and Databricks**, with a focus on **Delta Lake and PySpark optimization**.
 
-- 💬 Ask me about **Azure ,PySpark ,SQL ,Databricks**
+---
 
-- 📫 How to reach me **pravingondkar911@gmail.com**
+### 🧠 What I Work On
+- 🧩 **Data Pipeline Development** — ETL/ELT using PySpark & Azure Data Factory  
+- ☁️ **Cloud Engineering** — Azure Data Lake, Synapse, and Databricks  
+- 📊 **Data Modeling & Warehousing** — building efficient star/snowflake models  
+- 🧹 **Data Quality & Validation** — schema drift detection, validation rules  
+- 🧰 **Monitoring & Automation** — job orchestration, alerts, retries  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### 🧩 Tech Stack
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Languages** | Python, SQL, PySpark |
+| **Cloud** | Azure (Blob, ADF, Synapse, Databricks) |
+| **Data Storage** | Delta Lake, Parquet, SQL DB |
+| **Workflow & Monitoring** | ADF, Databricks Jobs, Logging |
+| **Data Quality** | Great Expectations, PyDeequ |
+| **Version Control & CI/CD** | Git, GitHub Actions |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravin-gondkar&show_icons=true&locale=en&layout=compact" alt="pravin-gondkar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravin-gondkar&show_icons=true&locale=en" alt="pravin-gondkar" /></p>
+### 📂 Featured Projects
+🔹 [**Azure Databricks ETL Pipeline**](#) — End-to-end PySpark pipeline on Azure  
+🔹 [**Advanced SQL Portfolio**](#) — 20+ SQL case studies for analytics  
+🔹 [**Data Validation Framework**](#) — Automated checks using Great Expectations  
+🔹 [**Python for Data Engineering**](#) — Scripts & notebooks for DSA + ETL basics  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravin-gondkar&" alt="pravin-gondkar" /></p>
+---
+
+### 🌱 What I’m Learning
+- Building **real-time streaming** data pipelines  
+- Implementing **data observability** frameworks  
+- Optimizing PySpark jobs for cost and performance  
+
+---
+
+### 💬 Let’s Connect!
+📫 **Email:** pravin@example.com  
+💼 **LinkedIn:** [linkedin.com/in/pravin-gondkar](#)  
+🧑‍💻 **Portfolio:** [github.com/pravin-gondkar](#)  
+
+---
+
+⭐ *“Data is only valuable when it flows correctly — I build systems to make that happen.”*
